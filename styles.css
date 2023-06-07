@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 57px;
+
+    color: #FFFFFF;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+}
+
+.landingPage {
+    position: absolute;
+    width: 1512px;
+    height: 1028px;
+    left: 0px;
+    top: 0px;
+    background: #0C0612;
+}
+
+.landingPage img {
+    position: absolute;
+    width: 991px;
+    height: 670px;
+    left: 1512px;
+    top: 312px;
+
+    background: url(thylacine-ccby30.png);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.landingPage h1 p {
+    position: absolute;
+    padding: 0 5%;
+    bottom: 10%;
+    text-align: left;
+    width: 30%;
+    color: #fff;
+    text-shadow: 0px 0px 2px #000;
+}
+
+
+
